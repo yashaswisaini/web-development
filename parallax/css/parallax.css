@@ -1,0 +1,46 @@
+div{
+    margin:0;
+}
+.parallax-window{
+    height:800px;
+     background: transparent;
+}
+h1{
+    padding-top:310px;
+    margin:0;
+    color:antiquewhite;
+    text-align:center;
+    font-size:4em
+}
+p{
+    color:antiquewhite;
+    text-align:center;
+    font-size:2em;
+    margin:10px;
+}
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    background-color:red;
+    overflow:hidden;
+}
+li{
+    float:left;
+}
+li a{
+    padding:20px 20px;
+    display:block;
+    text-align:center;
+    color:antiquewhite;
+    text-decoration:none;
+}
+li a:hover{
+    background-color:#4e3c38;
+}
+.righty{
+    float:right;
+}
+.home{
+    background-color: red;
+}
