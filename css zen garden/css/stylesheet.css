@@ -5,6 +5,7 @@
     background-color:black ;
     margin-top: 100px;
     opacity: 0.44;
+   font-family: 'Coustard', serif;
     
 }
 /*body{
@@ -12,7 +13,7 @@
     color:white;
 }*/
 body{
-   background: url(../images/dark_dawn.jpg) no-repeat center center  /* fixed */ ;
+   background: url(../images/dark_dawn1.png) no-repeat center center/*fixed*/   ;
     background-size: cover;
     color:white;
 }
