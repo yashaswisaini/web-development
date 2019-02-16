@@ -1,3 +1,10 @@
+*{
+    margin:0px;
+    padding:0px;
+    outline:none;
+    border:none;
+    box-sizing:border-box;
+}
 body{
     background:url(../images/barbell-bodybuilding-effort-703016.jpg) no-repeat center center fixed;
     background-size:cover;
